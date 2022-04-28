@@ -24,3 +24,7 @@ I'm currently into FANDOM wikis.
 **Currently working as:**
 
 A software analyst and web designer (Weasel words for "Hey, I found a bug here, let's blame it and compromize team integrity!" And "I make websites"). So yeah, not accepting jobs for the moment.
+
+----
+
+If you are wondering why there is nothing on my account, that is because this is my personal account. I rarely code outside of work.
