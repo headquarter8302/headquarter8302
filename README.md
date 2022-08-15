@@ -4,7 +4,7 @@
 
 # <p align="center">Greetings</p>
   
-**I’m Mark, or Markus**, also know for my username **@headquarter8302**
+**I’m Mark, or Markus**, also known for my username **@headquarter8302**
 
 I'm currently into FANDOM wikis.
 
