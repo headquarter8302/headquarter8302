@@ -8,9 +8,11 @@
 
 I'm currently into FANDOM wikis.
 
-**I’m interested in:** [front end web development](https://en.wikipedia.org/wiki/Front-end_web_development) and simple [PWA's](https://en.wikipedia.org/wiki/Progressive_web_application)
+**I’m interested in:**
 
-**I’m currently learning:**
+[Front end web development](https://en.wikipedia.org/wiki/Front-end_web_development) and simple [PWA's](https://en.wikipedia.org/wiki/Progressive_web_application)
+
+**I’m ~currently~ perpetually learning:**
 
 - Frameworks
 - New web technologies.
