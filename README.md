@@ -2,30 +2,31 @@
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </p>
 
-# <p align="center">Greetings</p>
+# <p align="center">Hellou</p>
   
 **I’m Mark, or Markus**, also known for my username **@headquarter8302**
 
-I'm currently into FANDOM wikis.
+I uhh, exist.
 
 **I’m interested in:**
 
-[Front end web development](https://en.wikipedia.org/wiki/Front-end_web_development) and simple [PWA's](https://en.wikipedia.org/wiki/Progressive_web_application)
+[Front end web development](https://en.wikipedia.org/wiki/Front-end_web_development) and simple [PWA's](https://en.wikipedia.org/wiki/Progressive_web_application), and some other things.
 
 **I’m ~currently~ perpetually learning:**
 
 - Frameworks
 - New web technologies.
+- Everything else
 
 **Contact me:**
 
 - Here at GitHub by mentioning my name.
-- At Discord.
-- [FANDOM Community Central](https://community.fandom.com/wiki/Message_Wall:Headquarter8302).
+- At Discord, `headquarter8302`
+- Anywhere else where the handle or username @headquarter8302 is used, I think.
 
 **Currently working as:**
 
-A software analyst and web designer (Weasel words for "Hey, I found a bug here, let's blame it and compromize team integrity!" And "I make websites"). So yeah, not accepting jobs for the moment.
+A junior General Development Supervisor. Yeah, I write less now.
 
 ----
 
