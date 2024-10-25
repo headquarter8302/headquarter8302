@@ -27,3 +27,7 @@ I exist, at the very least.
 ----
 
 If you are wondering why there is nothing on my account, that is because this is my personal account. I rarely showcase code outside of work.
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/inbox-zero-86555dddc82e.svg" />
+</p>
