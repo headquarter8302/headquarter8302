@@ -4,7 +4,7 @@
 
 # <p align="center">Hellou</p>
   
-I’m **Mark**, or **Markus**, also known by my username **@headquarter8302**.
+I’m **Mark**, or **Markus**, also known by my username **headquarter8302**.
 
 I exist, at the very least.
 
