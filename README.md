@@ -1,12 +1,13 @@
+> [!NOTE]
+> I am not looking for job openings, nor have I used any kind of professional social networking service. Please do not reach out to me about your openings, I will ignore you.
+
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </p>
 
 # <p align="center">Hellou</p>
   
-I’m **Mark**, or **Markus**, also known by my username **headquarter8302**.
-
-I exist, at the very least.
+I’m **Mark**, or **Markus**, also known by my username **headquarter8302**. I exist, at the very least.
 
 **I’m interested in:**
 
@@ -22,7 +23,7 @@ I exist, at the very least.
 
 - Here at GitHub by mentioning my name
 - At Discord, `headquarter8302`
-- Anywhere else where the handle or username headquarter8302 or Headquarter8302 is used, hopefully that's me and not someone else
+- Anywhere else where the handle or username `headquarter8302` or `Headquarter8302` is used, hopefully that's me and not someone else
 
 ----
 
