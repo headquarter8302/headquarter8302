@@ -13,7 +13,7 @@ I am a 30-something web developer with frontend affinity, proficient in TypeScri
 
 I started coding professionally in 2020-2021. My scope of work now includes code review, management, and a fair bit of administration.
 
-My hobbies includes petting cats, contributing to open-access wikis, and participating in FOSS development.
+My hobbies include petting cats, contributing to open-access wikis, and participating in FOSS development.
 
 **Contact me:**
 
