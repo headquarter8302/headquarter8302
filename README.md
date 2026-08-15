@@ -1,5 +1,5 @@
 > [!NOTE]
-> I am not looking for neither job openings nor opportunities, nor have I used any kind of professional social networking service under the name `headquarter8302`. Please do not reach out to me about your open positions, I will ignore you.
+> I am not looking for job openings or opportunities, nor have I used any kind of professional social networking service under the name `headquarter8302`. Please do not reach out to me about your open positions, I will ignore you.
 
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" />
